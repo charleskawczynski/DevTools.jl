@@ -1,0 +1,4 @@
+name = "DevTools"
+uuid = "3d208ad7-8504-4005-856b-5d51e437bdf2"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
